@@ -6,4 +6,4 @@ Enjoy Tic Tac Toe with up to four players and a variable game size. The applicat
 Landscape and portrait mode are both supported.
 
 # Overview
-<img src="https://raw.githubusercontent.com/jetspiking/WindowsPhone_TicTacToe/main/TicTacToe_Ultimate_Screenshots/Mobile_Portrait_RedAccent_Dark_Home.png" width="60">
+<img src="https://raw.githubusercontent.com/jetspiking/WindowsPhone_TicTacToe/main/TicTacToe_Ultimate_Screenshots/Mobile_Portrait_RedAccent_Dark_Home.png" width="400">
