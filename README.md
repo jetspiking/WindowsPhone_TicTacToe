@@ -6,4 +6,4 @@ Enjoy Tic Tac Toe with up to four players and a variable game size. The applicat
 Landscape and portrait mode are both supported.
 
 # Overview
-![TicTacToe Ultimate](TicTacToe_Ultimate_Screenshots/Mobile_Portrait_RedAccent_Dark_Home.png?raw=true "TicTacToe Ultimate")
+![TicTacToe Ultimate](TicTacToe_Ultimate_Screenshots/Mobile_Portrait_RedAccent_Dark_Home.png?raw=true | width=80"TicTacToe Ultimate")
