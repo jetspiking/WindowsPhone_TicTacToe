@@ -5,6 +5,10 @@ Enjoy Tic Tac Toe with up to four players and a variable game size. The applicat
 
 Landscape and portrait mode are both supported.
 
+# Installation
+Step 1: Download and install app certificate.
+Step 2: Download and install appxbundle (or download and install the x86/ x64/ ARM .appx file)
+
 # Overview
 <img src="https://raw.githubusercontent.com/jetspiking/WindowsPhone_TicTacToe/main/TicTacToe_Ultimate_Screenshots/Mobile_Portrait_RedAccent_Dark_Home.png" width="400">
 
