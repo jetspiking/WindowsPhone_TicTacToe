@@ -8,6 +8,7 @@ Landscape and portrait mode are both supported.
 
 # Installation
 Step 1: Download and install app certificate.
+
 Step 2: Download and install appxbundle (or download and install the x86/ x64/ ARM .appx file)
 
 # Overview
