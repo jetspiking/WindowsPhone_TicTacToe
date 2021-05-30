@@ -1,5 +1,5 @@
 # WindowsPhone_TicTacToe
-TicTacToe Ultimate for Windows Phone / PC
+Get TicTacToe Ultimate on your Windows 10 (Mobile) device.
 
 # Description
 Enjoy Tic Tac Toe with up to four players and a variable game size. The application is released with a Halloween theme (which can be disabled in the settings) and special player icons. TicTacToe Ultimate also uses your systems accent color, so the app changes with your mood (given that you adjust this in your Windows settings). TicTacToe Ultimate has support for x86, x64 and the ARM version of Windows 10.
